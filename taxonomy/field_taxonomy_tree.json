@@ -1,0 +1,222 @@
+{
+    "generic programmes": {
+        "generic programmes":  ["generic programmes"]
+    },
+    "humanities": {
+        "history and related":  [
+            "history",
+            "history of art",
+            "archaeology",
+            "art preservation and conservation"
+        ],
+        "languages, literatures, and cultures": [
+            "linguistics",
+            "english studies",
+            "classic studies",
+            "french studies",
+            "german studies",
+            "spanish studies",
+            "celtic studies",
+            "chinese studies",
+            "slavic languages studies",
+            "asian languages studies",
+            "other language studies",
+            "comparative literature",
+            "translation and interpreting",
+            "arabic studies"
+        ],
+        "philosophy and theology": [
+            "philosophy and ethics",
+            "theology and religious studies"
+        ]
+    },
+    "librarianship and information sciences": {
+        "librarianship": [
+            "library and archival studies",
+            "information studies"
+        ],
+        "communication sciences": [
+            "journalism",
+            "communication studies",
+            "media studies",
+            "publishing"
+        ]
+    },
+    "creative arts and design": {
+        "arts": [
+            "fine arts, crafts, and sculpture",
+            "music and performing arts",
+            "audio-visual techniques and media production",
+            "art preservation and conservation",
+            "creative writing"
+        ],
+        "design studies": [
+            "fashion design",
+            "interior design",
+            "product and industrial design",
+            "multimedia, audiovisual, and graphic design"
+        ]
+    },
+    "social studies, economics, business, and law": {
+        "social and political studies": [
+            "sociology",
+            "social policy and administration",
+            "social work",
+            "anthropology",
+            "political science and international relations",
+            "psychology and cognitive sciences",
+            "geography",
+            "work relations and human resources"
+        ],
+        "business and administration": [
+            "management and administration",
+            "marketing and advertising",
+            "wholesale and retail sales",
+            "industrial relations and corporate communication",
+            "catering and institutional management",
+            "land and property management",
+            "logistics and transport",
+            "commerce and international trade",
+            "work relations and human resources",
+            "tourism, hospitality, and event management"
+        ],
+        "law": ["law"],
+        "economics, finance, and related": [
+            "economics",
+            "accounting",
+            "finance, banking, and insurance",
+            "actuarial science",
+            "mathematics",
+            "statistics",
+            "financial engineering"
+        ]
+    },
+    "medical and health sciences": {
+        "medicine and nursing": [
+            "medicine",
+            "nursing",
+            "therapy and rehabilitation",
+            "paramedicine"
+        ],
+        "dentistry": ["dentistry"],
+        "pharmacy": ["pharmacy"],
+        "healthcare technology and engineering": [
+            "medical technology",
+            "biomedical engineering"
+        ],
+        "nutrition and dietetics": ["nutrition and dietetics"],
+        "health management": ["health management"]
+    },
+    "education": {
+        "education": [
+            "education science",
+            "pre-school teaching",
+            "teaching",
+            "education for those with special needs"
+        ]
+    },
+    "natural sciences and the environment": {
+        "biological and life sciences": [
+            "biology",
+            "biochemistry",
+            "biotechnology",
+            "bioengineering"
+        ],
+        "earth sciences": [
+            "environmental sciences",
+            "geography",
+            "geology",
+            "environmental engineering"
+        ],
+        "agriculture and related subjects": [
+            "agriculture and livestock production",
+            "forestry",
+            "fishery",
+            "bioengineering",
+            "food processing and technology"
+        ],
+        "physical and space sciences": [
+            "physics",
+            "astronomy and astrophysics"
+        ],
+        "chemical sciences": [
+            "chemistry",
+            "materials engineering",
+            "petroleum engineering",
+            "biochemistry"
+        ]
+    },
+    "mathematical and computer sciences": {
+        "mathematics and physics": [
+            "mathematics",
+            "statistics",
+            "physics",
+            "data science and analytics"
+        ],
+        "computer science and related engineering": [
+            "computer science",
+            "electrical and electronics engineering",
+            "computer engineering",
+            "data science and analytics"
+        ]
+    },
+    "architecture and construction": {
+        "architecture and construction": [
+            "architecture and town planning",
+            "civil engineering"
+        ]
+    },
+    "engineering": {
+        "chemical engineering": [
+            "biomedical engineering",
+            "materials engineering",
+            "petroleum engineering",
+            "process engineering",
+            "bioengineering"
+        ],
+        "civil and environmental engineering": [
+            "civil engineering",
+            "environmental engineering"
+        ],
+        "electrical and computer engineering": [
+            "electrical and electronics engineering",
+            "computer engineering"
+        ],
+        "mechanical engineering": [
+            "aeronautical and aerospace engineering",
+            "manufacturing engineering",
+            "vehicle and automotive engineering"
+        ],
+        "industrial engineering": [
+            "systems engineering"
+        ],
+        "engineering management": ["engineering management"]
+    },
+    "technology, manufacturing, processes, and management": {
+        "technology, manufacturing, and processes": [
+            "food processing and technology",
+            "materials and textiles",
+            "mining and metallurgy",
+            "biotechnology",
+            "information technology, software development, and computer applications",
+            "medical technology",
+            "electronics and hardware technology"
+        ],
+        "technology management": ["technology management"]
+    },
+    "veterinary": {
+        "veterinary": ["veterinary"]
+    },
+    "security and military studies": {
+        "security and military studies": [
+            "military and defence",
+            "security"
+        ]
+    },
+    "sports": {
+        "sports": ["sports"]
+    },
+    "gastronomic sciences and culinary arts": {
+        "gastronomic sciences and culinary arts": ["gastronomic sciences and culinary arts"]
+    }
+}
