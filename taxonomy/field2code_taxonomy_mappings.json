@@ -1,0 +1,469 @@
+{
+    "generic programmes": [
+        "000101"
+    ],
+    "humanities": [
+        "01????"
+    ],
+    "librarianship and information sciences": [
+        "02????"
+    ],
+    "creative arts and design": [
+        "03????"
+    ],
+    "social studies, economics, business, and law": [
+        "04????"
+    ],
+    "medical and health sciences": [
+        "05????"
+    ],
+    "education": [
+        "0601??"
+    ],
+    "natural sciences and the environment": [
+        "07????"
+    ],
+    "mathematical and computer sciences": [
+        "08????"
+    ],
+    "architecture and construction": [
+        "0901??"
+    ],
+    "engineering": [
+        "10????"
+    ],
+    "technology, manufacturing, processes, and management": [
+        "11????"
+    ],
+    "veterinary": [
+        "120101"
+    ],
+    "security and military studies": [
+        "1301??"
+    ],
+    "sports": [
+        "140101"
+    ],
+    "gastronomic sciences and culinary arts": [
+        "150101"
+    ],
+    "history and related": [
+        "0101??"
+    ],
+    "languages, literatures, and cultures": [
+        "0102??"
+    ],
+    "philosophy and theology": [
+        "0103??"
+    ],
+    "librarianship": [
+        "0201??"
+    ],
+    "communication sciences": [
+        "0202??"
+    ],
+    "arts": [
+        "0301??"
+    ],
+    "design studies": [
+        "0302??"
+    ],
+    "social and political studies": [
+        "0401??"
+    ],
+    "business and administration": [
+        "0402??"
+    ],
+    "law": [
+        "040301"
+    ],
+    "economics, finance, and related": [
+        "0404??"
+    ],
+    "medicine and nursing": [
+        "0501??"
+    ],
+    "dentistry": [
+        "050201"
+    ],
+    "pharmacy": [
+        "050301"
+    ],
+    "healthcare technology and engineering": [
+        "0504??"
+    ],
+    "nutrition and dietetics": [
+        "050501"
+    ],
+    "health management": [
+        "050601"
+    ],
+    "biological and life sciences": [
+        "0701??"
+    ],
+    "earth sciences": [
+        "0702??"
+    ],
+    "agriculture and related subjects": [
+        "0703??"
+    ],
+    "physical and space sciences": [
+        "0704??"
+    ],
+    "chemical sciences": [
+        "0705??"
+    ],
+    "mathematics and physics": [
+        "0801??"
+    ],
+    "computer science and related engineering": [
+        "0802??"
+    ],
+    "chemical engineering": [
+        "1001??"
+    ],
+    "civil and environmental engineering": [
+        "1002??"
+    ],
+    "electrical and computer engineering": [
+        "1003??"
+    ],
+    "mechanical engineering": [
+        "1004??"
+    ],
+    "industrial engineering": [
+        "1005??"
+    ],
+    "engineering management": [
+        "100601"
+    ],
+    "technology, manufacturing, and processes": [
+        "1101??"
+    ],
+    "technology management": [
+        "110201"
+    ],
+    "history": [
+        "010101"
+    ],
+    "history of art": [
+        "010102"
+    ],
+    "archaeology": [
+        "010103"
+    ],
+    "art preservation and conservation": [
+        "010104",
+        "030104"
+    ],
+    "linguistics": [
+        "010201"
+    ],
+    "english studies": [
+        "010202"
+    ],
+    "classic studies": [
+        "010203"
+    ],
+    "french studies": [
+        "010204"
+    ],
+    "german studies": [
+        "010205"
+    ],
+    "spanish studies": [
+        "010206"
+    ],
+    "celtic studies": [
+        "010207"
+    ],
+    "chinese studies": [
+        "010208"
+    ],
+    "slavic languages studies": [
+        "010209"
+    ],
+    "asian languages studies": [
+        "010210"
+    ],
+    "other language studies": [
+        "010211"
+    ],
+    "comparative literature": [
+        "010212"
+    ],
+    "translation and interpreting": [
+        "010213"
+    ],
+    "arabic studies": [
+        "010214"
+    ],
+    "philosophy and ethics": [
+        "010301"
+    ],
+    "theology and religious studies": [
+        "010302"
+    ],
+    "library and archival studies": [
+        "020101"
+    ],
+    "information studies": [
+        "020102"
+    ],
+    "journalism": [
+        "020201"
+    ],
+    "communication studies": [
+        "020202"
+    ],
+    "media studies": [
+        "020203"
+    ],
+    "publishing": [
+        "020204"
+    ],
+    "fine arts, crafts, and sculpture": [
+        "030101"
+    ],
+    "music and performing arts": [
+        "030102"
+    ],
+    "audio-visual techniques and media production": [
+        "030103"
+    ],
+    "creative writing": [
+        "030105"
+    ],
+    "fashion design": [
+        "030201"
+    ],
+    "interior design": [
+        "030202"
+    ],
+    "product and industrial design": [
+        "030203"
+    ],
+    "multimedia, audiovisual, and graphic design": [
+        "030204"
+    ],
+    "sociology": [
+        "040101"
+    ],
+    "social policy and administration": [
+        "040102"
+    ],
+    "social work": [
+        "040103"
+    ],
+    "anthropology": [
+        "040104"
+    ],
+    "political science and international relations": [
+        "040105"
+    ],
+    "psychology and cognitive sciences": [
+        "040106"
+    ],
+    "geography": [
+        "040107",
+        "070202"
+    ],
+    "work relations and human resources": [
+        "040108",
+        "040209"
+    ],
+    "management and administration": [
+        "040201"
+    ],
+    "marketing and advertising": [
+        "040202"
+    ],
+    "wholesale and retail sales": [
+        "040203"
+    ],
+    "industrial relations and corporate communication": [
+        "040204"
+    ],
+    "catering and institutional management": [
+        "040205"
+    ],
+    "land and property management": [
+        "040206"
+    ],
+    "logistics and transport": [
+        "040207"
+    ],
+    "commerce and international trade": [
+        "040208"
+    ],
+    "tourism, hospitality, and event management": [
+        "040210"
+    ],
+    "economics": [
+        "040401"
+    ],
+    "accounting": [
+        "040402"
+    ],
+    "finance, banking, and insurance": [
+        "040403"
+    ],
+    "actuarial science": [
+        "040404"
+    ],
+    "mathematics": [
+        "040405",
+        "080101"
+    ],
+    "statistics": [
+        "040406",
+        "080102"
+    ],
+    "medicine": [
+        "050101"
+    ],
+    "nursing": [
+        "050102"
+    ],
+    "therapy and rehabilitation": [
+        "050103"
+    ],
+    "paramedicine": [
+        "050104"
+    ],
+    "medical technology": [
+        "050401",
+        "110106"
+    ],
+    "biomedical engineering": [
+        "050402",
+        "100101"
+    ],
+    "education science": [
+        "060101"
+    ],
+    "pre-school teaching": [
+        "060102"
+    ],
+    "teaching": [
+        "060103"
+    ],
+    "education for those with special needs": [
+        "060104"
+    ],
+    "biology": [
+        "070101"
+    ],
+    "biochemistry": [
+        "070102",
+        "070504"
+    ],
+    "biotechnology": [
+        "070103",
+        "110104"
+    ],
+    "bioengineering": [
+        "070104",
+        "070304",
+        "100105"
+    ],
+    "environmental sciences": [
+        "070201"
+    ],
+    "geology": [
+        "070203"
+    ],
+    "environmental engineering": [
+        "070204",
+        "100202"
+    ],
+    "agriculture and livestock production": [
+        "070301"
+    ],
+    "forestry": [
+        "070302"
+    ],
+    "fishery": [
+        "070303"
+    ],
+    "food processing and technology": [
+        "070305",
+        "110101"
+    ],
+    "physics": [
+        "070401",
+        "080103"
+    ],
+    "astronomy and astrophysics": [
+        "070402"
+    ],
+    "chemistry": [
+        "070501"
+    ],
+    "materials engineering": [
+        "070502",
+        "100102"
+    ],
+    "petroleum engineering": [
+        "070503",
+        "100103"
+    ],
+    "data science and analytics": [
+        "080104",
+        "080204"
+    ],
+    "computer science": [
+        "080201"
+    ],
+    "electrical and electronics engineering": [
+        "080202",
+        "100301"
+    ],
+    "computer engineering": [
+        "080203",
+        "100302"
+    ],
+    "architecture and town planning": [
+        "090101"
+    ],
+    "civil engineering": [
+        "090102",
+        "100201"
+    ],
+    "process engineering": [
+        "100104"
+    ],
+    "aeronautical and aerospace engineering": [
+        "100401"
+    ],
+    "manufacturing engineering": [
+        "100402"
+    ],
+    "vehicle and automotive engineering": [
+        "100403"
+    ],
+    "financial engineering": [
+        "040407"
+    ],
+    "systems engineering": [
+        "100501"
+    ],
+    "materials and textiles": [
+        "110102"
+    ],
+    "mining and metallurgy": [
+        "110103"
+    ],
+    "information technology, software development, and computer applications": [
+        "110105"
+    ],
+    "electronics and hardware technology": [
+        "110107"
+    ],
+    "military and defence": [
+        "130101"
+    ],
+    "security": [
+        "130102"
+    ]
+}
